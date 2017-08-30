@@ -4,10 +4,6 @@
 
 ## Install
 
-- Package Control
-
-Search `LuaFormat` via `Package Control: Install Package`
-
 - Git
 
 git clone this repository to `Sublime Packages Path`
@@ -19,5 +15,4 @@ download zip and unzip to `Sublime Packages Path`
 
 ## Usage
 
-- shortcuts
-`ctrl + alt + f`
+Auto format when save
