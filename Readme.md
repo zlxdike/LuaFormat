@@ -12,6 +12,10 @@ git clone this repository to `Sublime Packages Path`
 
 download zip and unzip to `Sublime Packages Path`
 
+## Thanks
+
+[LuaFormat](https://github.com/GCCFeli/LuaFormat) 
+Lua code formatter in C#
 
 ## Usage
 
